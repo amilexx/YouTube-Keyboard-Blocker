@@ -1,0 +1,140 @@
+{
+  "extName": {
+    "message": "YouTube Keyboard Blocker"
+  },
+  "extDescription": {
+    "message": "Blocca le scorciatoie da tastiera di YouTube tasto per tasto con regole completamente personalizzabili."
+  },
+  "optionsSubtitle": {
+    "message": "Controlla esattamente quali tasti riceve YouTube."
+  },
+  "extensionActive": {
+    "message": "Estensione attiva"
+  },
+  "modeHeading": {
+    "message": "Modalità"
+  },
+  "modeSelectedTitle": {
+    "message": "Blocca tasti selezionati"
+  },
+  "modeSelectedDesc": {
+    "message": "I tasti nell'elenco vengono intercettati. Consigliato per disattivare le scorciatoie di YouTube."
+  },
+  "modeAllTitle": {
+    "message": "Blocca tutta la tastiera"
+  },
+  "modeAllDesc": {
+    "message": "YouTube non riceve alcun tasto, tranne quelli aggiunti come eccezioni."
+  },
+  "blockedKeysTitle": {
+    "message": "Tasti bloccati"
+  },
+  "blockedKeysDesc": {
+    "message": "Premi un tasto o una scorciatoia per aggiungerla."
+  },
+  "defaultYoutubeShortcuts": {
+    "message": "Scorciatoie YouTube predefinite"
+  },
+  "captureIdle": {
+    "message": "Clicca, poi premi un tasto"
+  },
+  "captureListening": {
+    "message": "Premi il tasto adesso…"
+  },
+  "clearList": {
+    "message": "Svuota elenco"
+  },
+  "emptyList": {
+    "message": "Nessun tasto in questo elenco."
+  },
+  "behaviorHeading": {
+    "message": "Comportamento"
+  },
+  "blockInEditableTitle": {
+    "message": "Blocca anche nei campi di testo"
+  },
+  "blockInEditableDesc": {
+    "message": "Ricerca YouTube, commenti, campi modificabili…"
+  },
+  "preventDefaultTitle": {
+    "message": "Annulla l'azione nativa del tasto"
+  },
+  "preventDefaultDesc": {
+    "message": "Impedisce anche lo scorrimento con Spazio/frecce e altre azioni della pagina associate."
+  },
+  "statusAuto": {
+    "message": "La configurazione viene salvata automaticamente."
+  },
+  "statusSaved": {
+    "message": "Salvato."
+  },
+  "allowedExceptionsTitle": {
+    "message": "Eccezioni consentite"
+  },
+  "allowedExceptionsDesc": {
+    "message": "Tutto è bloccato tranne i tasti elencati qui."
+  },
+  "removeRule": {
+    "message": "Rimuovi"
+  },
+  "popupActive": {
+    "message": "Attiva"
+  },
+  "popupModeAll": {
+    "message": "Modalità: blocca tutto tranne le eccezioni"
+  },
+  "popupModeSelected": {
+    "message": "Modalità: scorciatoie selezionate"
+  },
+  "popupConfigure": {
+    "message": "Configura tasti"
+  },
+  "keySpace": {
+    "message": "Spazio"
+  },
+  "keyNumLock": {
+    "message": "Bloc Num"
+  },
+  "keyNumpad": {
+    "message": "Tastierino"
+  },
+  "keyNumpadDecimal": {
+    "message": "Tastierino ."
+  },
+  "keyNumpadComma": {
+    "message": "Tastierino ,"
+  },
+  "keyNumpadAdd": {
+    "message": "Tastierino +"
+  },
+  "keyNumpadSubtract": {
+    "message": "Tastierino −"
+  },
+  "keyNumpadMultiply": {
+    "message": "Tastierino ×"
+  },
+  "keyNumpadDivide": {
+    "message": "Tastierino ÷"
+  },
+  "keyNumpadEnter": {
+    "message": "Tastierino Invio"
+  },
+  "keyNumpadEqual": {
+    "message": "Tastierino ="
+  },
+  "keyNumpadParenLeft": {
+    "message": "Tastierino ("
+  },
+  "keyNumpadParenRight": {
+    "message": "Tastierino )"
+  },
+  "keyNumpadBackspace": {
+    "message": "Tastierino Backspace"
+  },
+  "keyNumpadClear": {
+    "message": "Tastierino Cancella"
+  },
+  "keyNumpadClearEntry": {
+    "message": "Tastierino CE"
+  }
+}

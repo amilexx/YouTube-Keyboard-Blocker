@@ -1,0 +1,140 @@
+{
+  "extName": {
+    "message": "YouTube Keyboard Blocker"
+  },
+  "extDescription": {
+    "message": "Blockiert YouTube-Tastenkürzel Taste für Taste mit vollständig anpassbaren Regeln."
+  },
+  "optionsSubtitle": {
+    "message": "Lege genau fest, welche Tasten YouTube erhält."
+  },
+  "extensionActive": {
+    "message": "Erweiterung aktiviert"
+  },
+  "modeHeading": {
+    "message": "Modus"
+  },
+  "modeSelectedTitle": {
+    "message": "Ausgewählte Tasten blockieren"
+  },
+  "modeSelectedDesc": {
+    "message": "Tasten in der Liste werden abgefangen. Empfohlen zum Deaktivieren von YouTube-Tastenkürzeln."
+  },
+  "modeAllTitle": {
+    "message": "Gesamte Tastatur blockieren"
+  },
+  "modeAllDesc": {
+    "message": "YouTube erhält keine Tasten außer den als Ausnahmen hinzugefügten."
+  },
+  "blockedKeysTitle": {
+    "message": "Blockierte Tasten"
+  },
+  "blockedKeysDesc": {
+    "message": "Drücke eine Taste oder Tastenkombination, um sie hinzuzufügen."
+  },
+  "defaultYoutubeShortcuts": {
+    "message": "Standard-YouTube-Tastenkürzel"
+  },
+  "captureIdle": {
+    "message": "Klicken, dann Taste drücken"
+  },
+  "captureListening": {
+    "message": "Jetzt Taste drücken…"
+  },
+  "clearList": {
+    "message": "Liste leeren"
+  },
+  "emptyList": {
+    "message": "Diese Liste enthält keine Tasten."
+  },
+  "behaviorHeading": {
+    "message": "Verhalten"
+  },
+  "blockInEditableTitle": {
+    "message": "Auch in Textfeldern blockieren"
+  },
+  "blockInEditableDesc": {
+    "message": "YouTube-Suche, Kommentare, editierbare Felder…"
+  },
+  "preventDefaultTitle": {
+    "message": "Native Tastenaktion verhindern"
+  },
+  "preventDefaultDesc": {
+    "message": "Verhindert auch Scrollen mit Leertaste/Pfeiltasten und andere zugehörige Seitenaktionen."
+  },
+  "statusAuto": {
+    "message": "Konfiguration wird automatisch gespeichert."
+  },
+  "statusSaved": {
+    "message": "Gespeichert."
+  },
+  "allowedExceptionsTitle": {
+    "message": "Erlaubte Ausnahmen"
+  },
+  "allowedExceptionsDesc": {
+    "message": "Alles ist blockiert, außer den hier aufgeführten Tasten."
+  },
+  "removeRule": {
+    "message": "Entfernen"
+  },
+  "popupActive": {
+    "message": "Aktiviert"
+  },
+  "popupModeAll": {
+    "message": "Modus: alles außer Ausnahmen blockieren"
+  },
+  "popupModeSelected": {
+    "message": "Modus: ausgewählte Tastenkürzel"
+  },
+  "popupConfigure": {
+    "message": "Tasten konfigurieren"
+  },
+  "keySpace": {
+    "message": "Leertaste"
+  },
+  "keyNumLock": {
+    "message": "Num"
+  },
+  "keyNumpad": {
+    "message": "Ziffernblock"
+  },
+  "keyNumpadDecimal": {
+    "message": "Ziffernblock ."
+  },
+  "keyNumpadComma": {
+    "message": "Ziffernblock ,"
+  },
+  "keyNumpadAdd": {
+    "message": "Ziffernblock +"
+  },
+  "keyNumpadSubtract": {
+    "message": "Ziffernblock −"
+  },
+  "keyNumpadMultiply": {
+    "message": "Ziffernblock ×"
+  },
+  "keyNumpadDivide": {
+    "message": "Ziffernblock ÷"
+  },
+  "keyNumpadEnter": {
+    "message": "Ziffernblock Enter"
+  },
+  "keyNumpadEqual": {
+    "message": "Ziffernblock ="
+  },
+  "keyNumpadParenLeft": {
+    "message": "Ziffernblock ("
+  },
+  "keyNumpadParenRight": {
+    "message": "Ziffernblock )"
+  },
+  "keyNumpadBackspace": {
+    "message": "Ziffernblock Rücktaste"
+  },
+  "keyNumpadClear": {
+    "message": "Ziffernblock Löschen"
+  },
+  "keyNumpadClearEntry": {
+    "message": "Ziffernblock CE"
+  }
+}

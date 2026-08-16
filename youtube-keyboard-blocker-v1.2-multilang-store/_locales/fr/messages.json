@@ -1,0 +1,140 @@
+{
+  "extName": {
+    "message": "YouTube Keyboard Blocker"
+  },
+  "extDescription": {
+    "message": "Bloque les raccourcis clavier de YouTube, touche par touche, avec des règles entièrement personnalisables."
+  },
+  "optionsSubtitle": {
+    "message": "Contrôle exactement quelles touches YouTube reçoit."
+  },
+  "extensionActive": {
+    "message": "Extension active"
+  },
+  "modeHeading": {
+    "message": "Mode"
+  },
+  "modeSelectedTitle": {
+    "message": "Bloquer certaines touches"
+  },
+  "modeSelectedDesc": {
+    "message": "Les touches de la liste sont interceptées. C'est le mode recommandé pour supprimer les raccourcis YouTube."
+  },
+  "modeAllTitle": {
+    "message": "Bloquer tout le clavier"
+  },
+  "modeAllDesc": {
+    "message": "YouTube ne reçoit aucune touche, sauf celles ajoutées comme exceptions."
+  },
+  "blockedKeysTitle": {
+    "message": "Touches bloquées"
+  },
+  "blockedKeysDesc": {
+    "message": "Appuie sur une touche ou un raccourci pour l'ajouter."
+  },
+  "defaultYoutubeShortcuts": {
+    "message": "Raccourcis YouTube par défaut"
+  },
+  "captureIdle": {
+    "message": "Cliquer puis appuyer sur une touche"
+  },
+  "captureListening": {
+    "message": "Appuie maintenant sur la touche…"
+  },
+  "clearList": {
+    "message": "Vider la liste"
+  },
+  "emptyList": {
+    "message": "Aucune touche dans cette liste."
+  },
+  "behaviorHeading": {
+    "message": "Comportement"
+  },
+  "blockInEditableTitle": {
+    "message": "Bloquer aussi dans les champs de texte"
+  },
+  "blockInEditableDesc": {
+    "message": "Recherche YouTube, commentaires, champs éditables…"
+  },
+  "preventDefaultTitle": {
+    "message": "Annuler l'action native de la touche"
+  },
+  "preventDefaultDesc": {
+    "message": "Empêche aussi le scroll de Espace/flèches et autres actions de page associées."
+  },
+  "statusAuto": {
+    "message": "Configuration sauvegardée automatiquement."
+  },
+  "statusSaved": {
+    "message": "Sauvegardé."
+  },
+  "allowedExceptionsTitle": {
+    "message": "Exceptions autorisées"
+  },
+  "allowedExceptionsDesc": {
+    "message": "Tout est bloqué, sauf les touches présentes ici."
+  },
+  "removeRule": {
+    "message": "Retirer"
+  },
+  "popupActive": {
+    "message": "Actif"
+  },
+  "popupModeAll": {
+    "message": "Mode : tout bloquer sauf exceptions"
+  },
+  "popupModeSelected": {
+    "message": "Mode : raccourcis sélectionnés"
+  },
+  "popupConfigure": {
+    "message": "Configurer les touches"
+  },
+  "keySpace": {
+    "message": "Espace"
+  },
+  "keyNumLock": {
+    "message": "Verr Num"
+  },
+  "keyNumpad": {
+    "message": "Pavé"
+  },
+  "keyNumpadDecimal": {
+    "message": "Pavé ."
+  },
+  "keyNumpadComma": {
+    "message": "Pavé ,"
+  },
+  "keyNumpadAdd": {
+    "message": "Pavé +"
+  },
+  "keyNumpadSubtract": {
+    "message": "Pavé −"
+  },
+  "keyNumpadMultiply": {
+    "message": "Pavé ×"
+  },
+  "keyNumpadDivide": {
+    "message": "Pavé ÷"
+  },
+  "keyNumpadEnter": {
+    "message": "Pavé Entrée"
+  },
+  "keyNumpadEqual": {
+    "message": "Pavé ="
+  },
+  "keyNumpadParenLeft": {
+    "message": "Pavé ("
+  },
+  "keyNumpadParenRight": {
+    "message": "Pavé )"
+  },
+  "keyNumpadBackspace": {
+    "message": "Pavé Retour"
+  },
+  "keyNumpadClear": {
+    "message": "Pavé Clear"
+  },
+  "keyNumpadClearEntry": {
+    "message": "Pavé CE"
+  }
+}

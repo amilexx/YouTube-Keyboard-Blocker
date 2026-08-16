@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>YouTube Keyboard Blocker</title>
+  <link rel="stylesheet" href="options.css">
+</head>
+<body>
+  <main class="wrap">
+    <header>
+      <div>
+        <h1 data-i18n="extName">YouTube Keyboard Blocker</h1>
+        <p data-i18n="optionsSubtitle">Control exactly which keys YouTube receives.</p>
+      </div>
+      <label class="switch-row master">
+        <span data-i18n="extensionActive">Extension enabled</span>
+        <input id="enabled" type="checkbox">
+      </label>
+    </header>
+
+    <section class="card">
+      <h2 data-i18n="modeHeading">Mode</h2>
+      <div class="mode-grid">
+        <label class="mode-card">
+          <input type="radio" name="mode" value="selected">
+          <span>
+            <strong data-i18n="modeSelectedTitle">Block selected keys</strong>
+            <small data-i18n="modeSelectedDesc">Keys in the list are intercepted. Recommended for disabling YouTube shortcuts.</small>
+          </span>
+        </label>
+        <label class="mode-card">
+          <input type="radio" name="mode" value="all">
+          <span>
+            <strong data-i18n="modeAllTitle">Block the entire keyboard</strong>
+            <small data-i18n="modeAllDesc">YouTube receives no keys except the ones added as exceptions.</small>
+          </span>
+        </label>
+      </div>
+    </section>
+
+    <section class="card">
+      <div class="section-head">
+        <div>
+          <h2 id="rulesTitle" data-i18n="blockedKeysTitle">Blocked keys</h2>
+          <p id="rulesDescription" data-i18n="blockedKeysDesc">Press a key or shortcut to add it.</p>
+        </div>
+        <button id="resetYoutube" class="secondary" data-i18n="defaultYoutubeShortcuts">Default YouTube shortcuts</button>
+      </div>
+
+      <div class="capture-row">
+        <button id="captureButton" class="capture" data-i18n="captureIdle">Click, then press a key</button>
+        <button id="clearRules" class="danger-ghost" data-i18n="clearList">Clear list</button>
+      </div>
+
+      <div id="rules" class="rules"></div>
+      <p id="emptyState" class="empty" hidden data-i18n="emptyList">There are no keys in this list.</p>
+    </section>
+
+    <section class="card settings">
+      <h2 data-i18n="behaviorHeading">Behavior</h2>
+      <label class="switch-row">
+        <span>
+          <strong data-i18n="blockInEditableTitle">Also block inside text fields</strong>
+          <small data-i18n="blockInEditableDesc">YouTube search, comments, editable fields…</small>
+        </span>
+        <input id="blockInEditable" type="checkbox">
+      </label>
+      <label class="switch-row">
+        <span>
+          <strong data-i18n="preventDefaultTitle">Cancel the key's native action</strong>
+          <small data-i18n="preventDefaultDesc">Also prevents Space/arrow scrolling and other page actions associated with the key.</small>
+        </span>
+        <input id="preventDefault" type="checkbox">
+      </label>
+    </section>
+
+    <footer>
+      <span id="status" data-i18n="statusAuto">Configuration is saved automatically.</span>
+    </footer>
+  </main>
+
+  <script src="i18n.js"></script>
+  <script src="options.js"></script>
+</body>
+</html>

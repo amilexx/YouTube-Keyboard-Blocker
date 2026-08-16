@@ -1,0 +1,140 @@
+{
+  "extName": {
+    "message": "YouTube Keyboard Blocker"
+  },
+  "extDescription": {
+    "message": "Bloqueie os atalhos de teclado do YouTube tecla por tecla com regras totalmente personalizáveis."
+  },
+  "optionsSubtitle": {
+    "message": "Controle exatamente quais teclas o YouTube recebe."
+  },
+  "extensionActive": {
+    "message": "Extensão ativada"
+  },
+  "modeHeading": {
+    "message": "Modo"
+  },
+  "modeSelectedTitle": {
+    "message": "Bloquear teclas selecionadas"
+  },
+  "modeSelectedDesc": {
+    "message": "As teclas da lista são interceptadas. Recomendado para desativar os atalhos do YouTube."
+  },
+  "modeAllTitle": {
+    "message": "Bloquear todo o teclado"
+  },
+  "modeAllDesc": {
+    "message": "O YouTube não recebe nenhuma tecla, exceto as adicionadas como exceções."
+  },
+  "blockedKeysTitle": {
+    "message": "Teclas bloqueadas"
+  },
+  "blockedKeysDesc": {
+    "message": "Pressione uma tecla ou atalho para adicionar."
+  },
+  "defaultYoutubeShortcuts": {
+    "message": "Atalhos padrão do YouTube"
+  },
+  "captureIdle": {
+    "message": "Clique e pressione uma tecla"
+  },
+  "captureListening": {
+    "message": "Pressione a tecla agora…"
+  },
+  "clearList": {
+    "message": "Limpar lista"
+  },
+  "emptyList": {
+    "message": "Não há teclas nesta lista."
+  },
+  "behaviorHeading": {
+    "message": "Comportamento"
+  },
+  "blockInEditableTitle": {
+    "message": "Bloquear também em campos de texto"
+  },
+  "blockInEditableDesc": {
+    "message": "Pesquisa do YouTube, comentários, campos editáveis…"
+  },
+  "preventDefaultTitle": {
+    "message": "Cancelar a ação nativa da tecla"
+  },
+  "preventDefaultDesc": {
+    "message": "Também impede a rolagem com Espaço/setas e outras ações da página associadas à tecla."
+  },
+  "statusAuto": {
+    "message": "A configuração é salva automaticamente."
+  },
+  "statusSaved": {
+    "message": "Salvo."
+  },
+  "allowedExceptionsTitle": {
+    "message": "Exceções permitidas"
+  },
+  "allowedExceptionsDesc": {
+    "message": "Tudo é bloqueado, exceto as teclas listadas aqui."
+  },
+  "removeRule": {
+    "message": "Remover"
+  },
+  "popupActive": {
+    "message": "Ativada"
+  },
+  "popupModeAll": {
+    "message": "Modo: bloquear tudo exceto exceções"
+  },
+  "popupModeSelected": {
+    "message": "Modo: atalhos selecionados"
+  },
+  "popupConfigure": {
+    "message": "Configurar teclas"
+  },
+  "keySpace": {
+    "message": "Espaço"
+  },
+  "keyNumLock": {
+    "message": "Num Lock"
+  },
+  "keyNumpad": {
+    "message": "Teclado num."
+  },
+  "keyNumpadDecimal": {
+    "message": "Teclado num. ."
+  },
+  "keyNumpadComma": {
+    "message": "Teclado num. ,"
+  },
+  "keyNumpadAdd": {
+    "message": "Teclado num. +"
+  },
+  "keyNumpadSubtract": {
+    "message": "Teclado num. −"
+  },
+  "keyNumpadMultiply": {
+    "message": "Teclado num. ×"
+  },
+  "keyNumpadDivide": {
+    "message": "Teclado num. ÷"
+  },
+  "keyNumpadEnter": {
+    "message": "Teclado num. Enter"
+  },
+  "keyNumpadEqual": {
+    "message": "Teclado num. ="
+  },
+  "keyNumpadParenLeft": {
+    "message": "Teclado num. ("
+  },
+  "keyNumpadParenRight": {
+    "message": "Teclado num. )"
+  },
+  "keyNumpadBackspace": {
+    "message": "Teclado num. Backspace"
+  },
+  "keyNumpadClear": {
+    "message": "Teclado num. Limpar"
+  },
+  "keyNumpadClearEntry": {
+    "message": "Teclado num. CE"
+  }
+}

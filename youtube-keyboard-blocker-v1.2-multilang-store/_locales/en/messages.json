@@ -1,0 +1,140 @@
+{
+  "extName": {
+    "message": "YouTube Keyboard Blocker"
+  },
+  "extDescription": {
+    "message": "Block YouTube keyboard shortcuts, key by key, with fully customizable rules."
+  },
+  "optionsSubtitle": {
+    "message": "Control exactly which keys YouTube receives."
+  },
+  "extensionActive": {
+    "message": "Extension enabled"
+  },
+  "modeHeading": {
+    "message": "Mode"
+  },
+  "modeSelectedTitle": {
+    "message": "Block selected keys"
+  },
+  "modeSelectedDesc": {
+    "message": "Keys in the list are intercepted. Recommended for disabling YouTube shortcuts."
+  },
+  "modeAllTitle": {
+    "message": "Block the entire keyboard"
+  },
+  "modeAllDesc": {
+    "message": "YouTube receives no keys except the ones added as exceptions."
+  },
+  "blockedKeysTitle": {
+    "message": "Blocked keys"
+  },
+  "blockedKeysDesc": {
+    "message": "Press a key or shortcut to add it."
+  },
+  "defaultYoutubeShortcuts": {
+    "message": "Default YouTube shortcuts"
+  },
+  "captureIdle": {
+    "message": "Click, then press a key"
+  },
+  "captureListening": {
+    "message": "Press the key now…"
+  },
+  "clearList": {
+    "message": "Clear list"
+  },
+  "emptyList": {
+    "message": "There are no keys in this list."
+  },
+  "behaviorHeading": {
+    "message": "Behavior"
+  },
+  "blockInEditableTitle": {
+    "message": "Also block inside text fields"
+  },
+  "blockInEditableDesc": {
+    "message": "YouTube search, comments, editable fields…"
+  },
+  "preventDefaultTitle": {
+    "message": "Cancel the key's native action"
+  },
+  "preventDefaultDesc": {
+    "message": "Also prevents Space/arrow scrolling and other page actions associated with the key."
+  },
+  "statusAuto": {
+    "message": "Configuration is saved automatically."
+  },
+  "statusSaved": {
+    "message": "Saved."
+  },
+  "allowedExceptionsTitle": {
+    "message": "Allowed exceptions"
+  },
+  "allowedExceptionsDesc": {
+    "message": "Everything is blocked except the keys listed here."
+  },
+  "removeRule": {
+    "message": "Remove"
+  },
+  "popupActive": {
+    "message": "Enabled"
+  },
+  "popupModeAll": {
+    "message": "Mode: block everything except exceptions"
+  },
+  "popupModeSelected": {
+    "message": "Mode: selected shortcuts"
+  },
+  "popupConfigure": {
+    "message": "Configure keys"
+  },
+  "keySpace": {
+    "message": "Space"
+  },
+  "keyNumLock": {
+    "message": "Num Lock"
+  },
+  "keyNumpad": {
+    "message": "Numpad"
+  },
+  "keyNumpadDecimal": {
+    "message": "Numpad ."
+  },
+  "keyNumpadComma": {
+    "message": "Numpad ,"
+  },
+  "keyNumpadAdd": {
+    "message": "Numpad +"
+  },
+  "keyNumpadSubtract": {
+    "message": "Numpad −"
+  },
+  "keyNumpadMultiply": {
+    "message": "Numpad ×"
+  },
+  "keyNumpadDivide": {
+    "message": "Numpad ÷"
+  },
+  "keyNumpadEnter": {
+    "message": "Numpad Enter"
+  },
+  "keyNumpadEqual": {
+    "message": "Numpad ="
+  },
+  "keyNumpadParenLeft": {
+    "message": "Numpad ("
+  },
+  "keyNumpadParenRight": {
+    "message": "Numpad )"
+  },
+  "keyNumpadBackspace": {
+    "message": "Numpad Backspace"
+  },
+  "keyNumpadClear": {
+    "message": "Numpad Clear"
+  },
+  "keyNumpadClearEntry": {
+    "message": "Numpad CE"
+  }
+}
